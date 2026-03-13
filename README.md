@@ -1,7 +1,7 @@
 # Fluxogramas - Exercícios de Lógica de Programação e Algoritmo
 
 ## 📊 Projeto
- → Este projeto foi desenvolvido como uma atividade prática no SENAI utilizando fluxogramas para representar algoritmos básicos. O objetivo foi praticar o raciocínio lógico e entender melhor como organizar processos usando diagramas de fluxo.
+ → Este projeto foi desenvolvido como uma atividade prática no SENAI utilizando fluxogramas para representar algoritmos básicos. O objetivo foi praticar o raciocínio lógico.
 
 ## 💻 Exercícios
 
