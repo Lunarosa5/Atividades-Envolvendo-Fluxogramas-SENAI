@@ -3,9 +3,9 @@
 ## 📊 Projeto
  → Este projeto foi desenvolvido como uma atividade prática no SENAI utilizando fluxogramas para representar algoritmos básicos. O objetivo foi praticar o raciocínio lógico e entender melhor como organizar processos usando diagramas de fluxo.
 
-## 📚 Exercícios
+## 💻 Exercícios
 
-### 🧩 Exercício 1
+### 📚 Exercício 1
 Crie um fluxograma que:
 
 - Leia o **nome de uma pessoa**
@@ -15,7 +15,7 @@ Crie um fluxograma que:
 
 ---
 
-### 🧩 Exercício 2
+### 📚 Exercício 2
 Crie um fluxograma que:
 
 - Leia **dois números**
@@ -26,7 +26,7 @@ Crie um fluxograma que:
 
 ---
 
-### 🧩 Exercício 3
+### 📚 Exercício 3
 Crie um fluxograma que:
 
 - Leia a **idade de uma pessoa**
@@ -38,7 +38,7 @@ Crie um fluxograma que:
 
 ---
 
-### 🧩 Exercício 4
+### 📚 Exercício 4
 Crie um fluxograma que:
 
 - Leia **um número**
@@ -51,7 +51,7 @@ Crie um fluxograma que:
 
 ---
 
-### 🧩 Exercício 5
+### 📚 Exercício 5
 Crie um fluxograma que:
 
 - Leia **duas notas**
