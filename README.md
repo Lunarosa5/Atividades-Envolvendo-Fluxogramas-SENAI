@@ -3,7 +3,13 @@
 ## 📊 Projeto
  → Este projeto foi desenvolvido como uma atividade prática no SENAI utilizando fluxogramas para representar algoritmos básicos. O objetivo foi praticar o raciocínio lógico.
 
-## 💻 Exercícios
+
+## 💻 Tecnologias Usadas
+- Flowgorithm.
+- Git e GitHub.
+
+
+## 📝 Exercícios
 
 ### 📚 Exercício 1
 Crie um fluxograma que:
